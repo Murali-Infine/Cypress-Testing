@@ -1,0 +1,21 @@
+{
+    "productName": "Test Automation",
+    "productDescription": "Test automation description",
+    "skuValue": "Automation-SKU-001",
+    "itemType": "Inventory Item",
+    "class": "Paint",
+    "subClass": "Activator",
+    "availableQuantity": 10,
+    "binNumber": "Test-BinNo-001",
+    "estCostPrice": 50,
+    "sellingPrice": 60,
+    "quantityinHand": 55,
+    "reorderPoint": 10,
+    "quantity": 70,
+    "pricing": 100,
+    "selectRule": "Apply Quantity-based Pricing",
+    "vendor": "3A Composites",
+    "brand": "Polar™",
+    "keyFeature": "Test-keyFeature",
+    "imageFileName": "test.png"
+}
